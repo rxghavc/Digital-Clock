@@ -8,7 +8,7 @@
 .hero{
     width: 100%;
     height: 100vh;
-    background: linear-gradient(45deg, #08001f, #30197d);
+    background: linear-gradient(45deg, #156064, #00C49A);
     color: #fff;
     position: relative;
 }
@@ -25,7 +25,7 @@
 .clock{
     width: 100%;
     height: 100%;
-    background: rgba(235,0,255,0.11);
+    background: rgba(251,143,103,0.11);
     border-radius: 10px;
     display: flex;
     align-items: center;
@@ -37,7 +37,7 @@
     content: '';
     width: 180px;
     height: 180px;
-    background: #f41b75;
+    background: #F8E16C;
     border-radius: 5px;
     position: absolute;
     left: -50px;
@@ -49,7 +49,7 @@
     content: '';
     width: 180px;
     height: 180px;
-    background: #419aff;
+    background: #FFC2B4;
     border-radius: 50%;
     position: absolute;
     right: -30px;
