@@ -16,3 +16,9 @@ A real-time digital clock built with HTML, CSS, and JavaScript. This project dis
 - **HTML** – Structure of the web page
 - **CSS** – Styling and responsive design
 - **JavaScript** – Real-time clock logic using the `Date` object
+
+## 🔧 How to Use
+
+1. Clone the repo:
+2. Open the folder
+3. Open `index.html` in your browser.
