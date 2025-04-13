@@ -1,4 +1,16 @@
-This is a simple digital clock website which showcases the learning I went through a tutorial project and implementing that.
+# 🕒 Digital Clock
 
-I decided to try making the project from scratch by looking at the final result that the particular YouTuber was attempting to run through the code for and then trying to get a close enough solution.
-In the end I managed to successfully complete it with my own styling as well with the colour scheme used in the website UI.
+A real-time digital clock built with HTML, CSS, and JavaScript. This project displays the current time and updates every second using JavaScript's `Date` object.
+
+## 🚀 Features
+
+- Live time updates every second
+- Clean and modern digital clock interface
+- Fully responsive layout for all screen sizes
+- Lightweight and fast
+
+## 🛠️ Technologies Used
+
+- **HTML** – Structure of the web page
+- **CSS** – Styling and responsive design
+- **JavaScript** – Real-time clock logic using the `Date` object
