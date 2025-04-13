@@ -2,6 +2,8 @@
 
 A real-time digital clock built with HTML, CSS, and JavaScript. This project displays the current time and updates every second using JavaScript's `Date` object.
 
+![image](https://github.com/user-attachments/assets/440a1a68-fe1e-44c5-ac20-bcb32af2f340)
+
 ## 🚀 Features
 
 - Live time updates every second
