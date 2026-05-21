@@ -4,20 +4,20 @@ A real-time digital clock built with HTML, CSS, and JavaScript. This project dis
 
 ![image](https://github.com/user-attachments/assets/440a1a68-fe1e-44c5-ac20-bcb32af2f340)
 
-## 🚀 Features
+## Features
 
 - Live time updates every second
 - Clean and modern digital clock interface
 - Fully responsive layout for all screen sizes
 - Lightweight and fast
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 - **HTML** – Structure of the web page
 - **CSS** – Styling and responsive design
 - **JavaScript** – Real-time clock logic using the `Date` object
 
-## 🔧 How to Use
+## Getting Started
 
 1. Clone the repo:
 2. Open the folder
